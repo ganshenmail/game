@@ -1,0 +1,1 @@
+{"_$ver":1,"_$id":"lx8mwule","_$type":"Scene","left":0,"right":0,"top":0,"bottom":0,"name":"Scene2D","width":1280,"height":720,"_$comp":[{"_$type":"TBlqAApLTky4WFcya3QKzQ"}],"_$child":[{"_$id":"3khzavdl","_$type":"Sprite","name":"Sprite","width":1280,"height":720,"zIndex":-2,"_gcmds":[{"_$type":"DrawRectCmd","fillColor":"#ffffff"}]}]}
